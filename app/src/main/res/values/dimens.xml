@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cal_bt_rad">16dp</dimen>
+    <dimen name="cal_bt_text_size">24sp</dimen>
+    <dimen name="cal_tv_res_size">30sp</dimen>
+    <dimen name="cal_tv_num_size">30sp</dimen>
+    <dimen name="cal_tv_his_do_size">24sp</dimen>
+    <dimen name="cal_bt_ops_size">40sp</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cal_screen_enter_op">Please enter any operation to perform.</string>
+    <string name="cal_screen_enter_num_bef_op">Please Enter A Number Before.</string>
+    <string name="cal_his_screen_do_math">Do Some Maths!!</string>
+</resources>

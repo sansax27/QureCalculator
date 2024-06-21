@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="calc_bt_bg_num_tint">#000000</color>
+    <color name="calc_bt_bg_op_tint">#D3D3D3</color>
+    <color name="calc_screen_bg">#E5E4E2</color>
+    <color name="calc_his_rv_cv_bg">#D3D3D3</color>
+    <color name="calc_bt_txt_cl">#FFFFFFFF</color>
+</resources>
